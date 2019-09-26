@@ -1,1 +1,1 @@
-*.html linguist-language=java
+*.roff linguist-language=java
